@@ -1,5 +1,5 @@
 
-<img src="https://ik.imagekit.io/meaid6cls2/Group_5668_jSk8TGXTI.png" />
+<img src="https://ik.imagekit.io/meaid6cls2/proffy/proffy_IIeXuHzrt.png" />
 
 ---
 
@@ -43,7 +43,12 @@ $ npm i
 $ npm i
 $ npm start 
 
-
-
 ```
+---
+
+## 🙏 Agradecimentos
+
+Obrigado a toda equipe [Rocketseat](https://rocketseat.com.br/), em especial o mito [Diego Fernandes](https://github.com/diego3g).
+
+---
 
